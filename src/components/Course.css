@@ -1,0 +1,32 @@
+img {
+  width:100px;
+  height:100px;
+  display: flex;
+  justify-content: flex-start
+}
+
+.container {
+  width: 400px;
+  height: 300px;
+}
+
+.text {
+  color: black;
+  text-align: left;
+}
+
+.credits {
+  color: gray;
+  position: absolute;
+  top: 40px;
+  right: 50px;
+  border: 2px solid ;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.precio {
+  color: black;
+  text-align: left;
+  color: blue;
+}
